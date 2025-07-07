@@ -2,8 +2,8 @@
 <h3 align="center">A Front-end Developer learning Full-Stack</h3>
 
 - 🔭 I’m currently working on [Torevo](https://torevo.xyz)
-- - 🌱 I’m currently learning **Node.js**
-  - - 📫 How to reach me **ballistic@bloomingdev.xyz**
+- 🌱 I’m currently learning **Node.js**
+- 📫 How to reach me **ballistic@bloomingdev.xyz**
 
 
 ## 🌐 Socials:
