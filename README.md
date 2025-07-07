@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ballistic</h1>
 <h3 align="center">A Front-end Developer learning Full-Stack</h3>
 
-- 🔭 I’m currently working on [Torevo](https://torevo.xyz)<br><br>- 🌱 I’m currently learning **Node.js**<br><br>- 📫 How to reach me **ballistic@bloomingdev.xyz**
+- 🔭 I’m currently working on [Torevo](https://torevo.xyz)
+- - 🌱 I’m currently learning **Node.js**
+  - - 📫 How to reach me **ballistic@bloomingdev.xyz**
 
 
 ## 🌐 Socials:
