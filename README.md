@@ -1,37 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ballistic</h1>
-<h3 align="center">A Front-end Developer learning Full-Stack</h3>
+# 💫 About Me:
+- 🔭 I’m currently working on [Torevo](https://torevo.xyz)<br><br>- 🌱 I’m currently learning **Node.js**<br><br>- 📫 How to reach me **ballistic@bloomingdev.xyz**
 
-- 🔭 I’m currently working on [Torevo](https://torevo.xyz)
 
-- 🌱 I’m currently learning **Node.js**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EDJJeJG3JN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ballistic@bloomingdev.xyz) 
 
-- 📫 How to reach me **ballistic@bloomingdev.xyz**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MadBallistic&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MadBallistic&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadBallistic&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discord.gg/EDJJeJG3JN" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/discord.svg" alt="Discord" height="30" width="40" style="filter: brightness(0) invert(1);" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3-alt.svg" alt="CSS3" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/figma.svg" alt="Figma" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/js.svg" alt="JavaScript" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/node-js.svg" alt="Node.js" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/python.svg" alt="Python" width="40" height="40" style="filter: brightness(0) invert(1);" />
-    </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=MadBallistic&icon=0&color=12)](https://visitcount.itsvg.in)
