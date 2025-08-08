@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ballistic</h1>
 <h3 align="center">A Front-end Developer learning Full-Stack</h3>
 
-- 🔭 I’m currently working on [Parrot](https://prrt.xyz)
+- 🔭 I’m currently working on **[Parrot](https://prrt.xyz)**
 - 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me **[DM's](https://discord.com/users/852514476606357514)**
 
