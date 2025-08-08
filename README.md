@@ -6,7 +6,7 @@
 - 📫 How to reach me **[DM's](https://discord.com/users/852514476606357514)**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EDJJeJG3JN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ballistic@prrt.xyz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/852514476606357514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ballistic@prrt.xyz) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
