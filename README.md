@@ -1,16 +1,17 @@
-<h1 align="center">Hey, I'm Ballistic</h1>
-<h3 align="center">A Front-end Developer learning Full-Stack</h3>
+<img src="banner.png" alt="Banner" width="100%" />
+
+##
 
 - 🔭 I’m currently working on **[Parrot](https://prrt.xyz)**
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js & React**
 - 📫 How to reach me **[DM's](https://discord.com/users/852514476606357514)**
+##
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/852514476606357514) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ballistic@prrt.xyz) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![](https://nirzak-streak-stats.vercel.app/?user=madballistic&theme=dark&hide_border=false)<br/>
