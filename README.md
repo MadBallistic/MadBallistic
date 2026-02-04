@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 I’m currently working on **[OxCAD](https://oxcad.xyz)**
+- 🔭 I’m currently working on **[Nothing](https://example.com)**
 - 🌱 I’m currently learning **Node.js & React**
 - 📫 How to reach me **[DM's](https://discord.com/users/852514476606357514)**
 ##
