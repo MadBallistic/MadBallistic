@@ -1,5 +1,4 @@
 # hi, I'm ballistic
-
 ## about me
 
 Based in the United Kingdom 🇬🇧, I work on all sorts of stuff, websites for the most part.
