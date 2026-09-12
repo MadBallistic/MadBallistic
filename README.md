@@ -1,10 +1,11 @@
-<img src="madballistic.png" alt="Banner" width="100%" />
+# hi, I'm ballistic
 
-##
+---
 
-- 🔭 I’m currently working on **[Nothing](https://example.com)**
-- 🌱 I’m currently learning **Node.js & React**
-- 📫 How to reach me **[DM's](https://discord.com/users/852514476606357514)**
+## about me
+
+Based in the United Kingdom 🇬🇧, I work on all sorts of stuff, websites for the most part.
+
 ##
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
